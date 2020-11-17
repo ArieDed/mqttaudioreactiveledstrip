@@ -2,7 +2,7 @@
 
 Simple MQTT Python 3 script to work together with [Audio-reactive-led-strip](https://github.com/Aircoookie/audio-reactive-led-strip) to make [WLED controlled leds](https://github.com/Aircoookie/WLED) respond to music. Change the following variables in the script:
 
-* MQTT_IP_ADRESS: The ip address of your mqtt server
+* MQTT_IP_ADDRESS: The ip address of your mqtt server
 * MQTT_PORT: The port of your mqtt server
 * MQTT_USERNAME: Your mqtt server username
 * MQTT_PASSWORD: The password of your mqtt server and username
