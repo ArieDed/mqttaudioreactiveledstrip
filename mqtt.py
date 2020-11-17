@@ -111,7 +111,7 @@ client.message_callback_add('led_strip/music', on_music)
 
 #client.on_message = on_message
 
-client.connect("MQTT_IP_ADRESS", MQTT_PORT)
+client.connect("MQTT_IP_ADDRESS", MQTT_PORT)
 
 # Blocking call that processes network traffic, dispatches callbacks and
 # handles reconnecting.
